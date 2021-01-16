@@ -1,0 +1,36 @@
+.listone {
+  padding-top: 5px;
+  background: rgb(230, 227, 227);
+  height: 140px;
+  width: 310px;
+}
+
+.two {
+  padding-top: 5px;
+  background: rgb(230, 227, 227);
+  height: 130px;
+  width: 330px;
+}
+
+.two h4 {
+  text-align: center;
+}
+
+.three {
+  margin-top: 10px;
+  padding-top: 5px;
+  background: rgb(230, 227, 227);
+  height: 150px;
+  width: 430px;
+}
+
+.three h4 {
+    text-align: center;
+}
+
+.four {
+  padding-top: 5px;
+  background: rgb(230, 227, 227);
+  height: 150px;
+  width: 430px;
+}
